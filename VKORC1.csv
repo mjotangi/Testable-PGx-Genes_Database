@@ -1,0 +1,4 @@
+Gene,Genotype(s),Therapeutic Area(s),Drug(s)
+VKORC1,rs9923231 reference (C)/rs9923231 reference (C),BLOOD AND BLOOD FORMING ORGAN DRUGS,warfarin
+VKORC1,rs9923231 reference (C)/rs9923231 variant (T),BLOOD AND BLOOD FORMING ORGAN DRUGS,warfarin
+VKORC1,rs9923231 variant (T)/rs9923231 variant (T),BLOOD AND BLOOD FORMING ORGAN DRUGS,"acenocoumarol, phenprocoumon, warfarin"
