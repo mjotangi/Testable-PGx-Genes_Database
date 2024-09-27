@@ -1,0 +1,19 @@
+Gene,Genotype(s),Therapeutic Area(s),Drug(s)
+HLA-B,*15:02/*15:02,NERVOUS SYSTEM DRUGS,"fosphenytoin, phenytoin, lamotrigine, oxcarbazepine, carbamazepine"
+HLA-B,*15:02/*15:11,NERVOUS SYSTEM DRUGS,"fosphenytoin, phenytoin, lamotrigine, oxcarbazepine, carbamazepine"
+HLA-B,*15:02/*57:01,"NERVOUS SYSTEM DRUGS, ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS, ANTIINFECTIVES FOR SYSTEMIC USE","abacavir, fosphenytoin, pazopanib, phenytoin, lamotrigine, oxcarbazepine, flucloxacillin, carbamazepine"
+HLA-B,*15:02/*58:01,"NERVOUS SYSTEM DRUGS, MUSCULO-SKELETAL SYSTEM DRUGS","fosphenytoin, phenytoin, lamotrigine, oxcarbazepine, carbamazepine, allopurinol"
+HLA-B,*15:02/Other,NERVOUS SYSTEM DRUGS,"fosphenytoin, phenytoin, lamotrigine, oxcarbazepine, carbamazepine"
+HLA-B,*15:11/*15:11,NERVOUS SYSTEM DRUGS,carbamazepine
+HLA-B,*15:11/*57:01,"NERVOUS SYSTEM DRUGS, ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS, ANTIINFECTIVES FOR SYSTEMIC USE","abacavir, flucloxacillin, pazopanib, carbamazepine"
+HLA-B,*15:11/*58:01,"NERVOUS SYSTEM DRUGS, MUSCULO-SKELETAL SYSTEM DRUGS","allopurinol, carbamazepine"
+HLA-B,*15:11/Other,NERVOUS SYSTEM DRUGS,carbamazepine
+HLA-B,*57:01/*57:01,"ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS, ANTIINFECTIVES FOR SYSTEMIC USE","abacavir, flucloxacillin, pazopanib"
+HLA-B,*57:01/*58:01,"ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS, MUSCULO-SKELETAL SYSTEM DRUGS, ANTIINFECTIVES FOR SYSTEMIC USE","abacavir, flucloxacillin, allopurinol, pazopanib"
+HLA-B,*57:01/Other,"ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS, ANTIINFECTIVES FOR SYSTEMIC USE","abacavir, flucloxacillin, pazopanib"
+HLA-B,*58:01/*58:01,MUSCULO-SKELETAL SYSTEM DRUGS,allopurinol
+HLA-B,*58:01/Other,MUSCULO-SKELETAL SYSTEM DRUGS,allopurinol
+HLA-B,*15:02,NERVOUS SYSTEM DRUGS,"fosphenytoin, phenytoin, lamotrigine, oxcarbazepine, carbamazepine"
+HLA-B,*15:11,NERVOUS SYSTEM DRUGS,carbamazepine
+HLA-B,*57:01,"ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS, ANTIINFECTIVES FOR SYSTEMIC USE","abacavir, flucloxacillin, pazopanib"
+HLA-B,*58:01,MUSCULO-SKELETAL SYSTEM DRUGS,allopurinol
