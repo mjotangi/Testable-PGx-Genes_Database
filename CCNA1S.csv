@@ -1,5 +1,4 @@
 Gene,Genotype(s),Therapeutic Area(s),Drug(s)
 CACNA1S,c.520C>T/c.520C>T,"MUSCULO-SKELETAL SYSTEM DRUGS, NERVOUS SYSTEM DRUGS","enflurane, desflurane, halothane, methoxyflurane, sevoflurane, isoflurane, succinylcholine"
 CACNA1S,c.3257G>A/c.520C>T,"MUSCULO-SKELETAL SYSTEM DRUGS, NERVOUS SYSTEM DRUGS","enflurane, desflurane, halothane, methoxyflurane, sevoflurane, isoflurane, succinylcholine"
-CACNA1S,c.3257G>A/c.3257G>A,"MUSCULO-SKELETAL SYSTEM DRUGS, NERVOUS SYSTEM DRUGS","enflurane, desflurane, halothane, methoxyflurane, sevoflurane, isoflurane, succinylcholine"ABCG2,rs2231142 reference (G)/rs2231142 variant (T),MUSCULO-SKELETAL SYSTEM DRUGS,allopurinol
-ABCG2,rs2231142 variant (T)/rs2231142 variant (T),"MUSCULO-SKELETAL SYSTEM DRUGS, CARDIOVASCULAR SYSTEM DRUGS","allopurinol, rosuvastatin"
+CACNA1S,c.3257G>A/c.3257G>A,"MUSCULO-SKELETAL SYSTEM DRUGS, NERVOUS SYSTEM DRUGS","enflurane, desflurane, halothane, methoxyflurane, sevoflurane, isoflurane, succinylcholine"
