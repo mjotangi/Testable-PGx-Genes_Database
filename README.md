@@ -13,3 +13,7 @@ Setup Instructions
 ## Project Overview
 
 The Testable PGx Genes Database focuses on extracting and structuring data from pharmacogenomic sources, primarily PharmGKB, to provide information about genes, genotypes, therapeutic areas, and associated drugs. This database is designed to support applications that require pharmacogenomic testing and personalized medication recommendations.
+
+## File Descriptions
+
+
