@@ -54,7 +54,7 @@ The data is stored in a CSV format with the following structure:
 
 Column Name                    | Description
 -----------                    | -----------
-Gene	                         | Name of the pharmacogenomic gene
+PGx Gene	                         | Name of the pharmacogenomic gene
 Genotype(s)	to be Tested       | Genotypes to be tested 
 Therapeutic Area(s)            | List of therapeutic areas relevant to the drugs
 Associated Drug(s)	          | Drugs associated with the gene and genotype
