@@ -16,4 +16,7 @@ The Testable PGx Genes Database focuses on extracting and structuring data from 
 
 ## File Descriptions
 
+1. Build Testable PGx Genes.ipynb
+This is a Python script that contains step-by-step code for building the testable PGx gene database.
+
 
