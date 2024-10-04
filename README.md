@@ -52,12 +52,12 @@ To run the code in this repository, you'll need:
 
 The data is stored in a CSV format with the following structure:
 
-Column Name        | Description
------------        | -----------
-Gene	           | Name of the pharmacogenomic gene
-Genotype(s)	       | Genotypes to be tested 
-Therapeutic Area(s)| List of therapeutic areas relevant to the drugs
-Drug(s)	           | Drugs associated with the gene and genotype
+Column Name                    | Description
+-----------                    | -----------
+Gene	                         | Name of the pharmacogenomic gene
+Genotype(s)	to be Tested       | Genotypes to be tested 
+Therapeutic Area(s)            | List of therapeutic areas relevant to the drugs
+Associated Drug(s)	          | Drugs associated with the gene and genotype
 
 Drugs with no pharmacogenomic clinical action are excluded from the output.
   
