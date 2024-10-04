@@ -20,19 +20,19 @@ The Testable PGx Genes Database focuses on extracting and structuring data from 
 
 1. Build Testable PGx Genes.ipynb
 
-This is a Python script that contains step-by-step code for building the testable PGx gene database.
+   This is a Python script that contains step-by-step code for building the testable PGx gene database.
 
 3. Testable PGx Genes Database QC Report.docx
    
-This is a quality control report document for testable PGx genes database.
+   This is a quality control report document for testable PGx genes database.
 
 5. Testable_PGx_Genes.xlsx
    
-This is the database build from the all genes CSV's.
+   This is the database build from the all genes CSV's.
 
 7. gene_name.csv
 
-This repository contains individual CSV's for all the genes.
+   This repository contains individual CSV's for all the genes.
 
 ## Setup Instructions
 
