@@ -49,8 +49,8 @@ The data is stored in a CSV format with the following structure:
 Column Name        | Description
 -----------        | -----------
 Gene	           | Name of the pharmacogenomic gene
-Genotype(s)	       | Combination of genotypes to be tested (e.g., GG, GT, TT)
-Therapeutic Area(s)| List of therapeutic areas relevant to the genotype
+Genotype(s)	       | Genotypes to be tested 
+Therapeutic Area(s)| List of therapeutic areas relevant to the drugs
 Drug(s)	           | Drugs associated with the gene and genotype
 
 Drugs with no pharmacogenomic clinical action are excluded from the output.
