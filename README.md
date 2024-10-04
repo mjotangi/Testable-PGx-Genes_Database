@@ -40,5 +40,7 @@ To run the code in this repository, you'll need:
     - selenium
     - beautifulsoup4
     - requests
-- ChromeDriver
+- ChromeDriver (for Selenium web scraping)
+
+
   
