@@ -27,3 +27,18 @@ This is the database build from the all genes CSV's.
 
 4. gene_name.csv
 This repository contains individual CSV's for all the genes.
+
+## Setup Instructions
+
+### Prerequisites
+
+To run the code in this repository, you'll need:
+
+- Python 3.x
+- Required Python packages:
+    - pandas
+    - selenium
+    - beautifulsoup4
+    - requests
+- ChromeDriver
+  
