@@ -1,0 +1,28 @@
+{
+  "Testable_PGx_Gene": {
+    "Genes_with_Data": [
+      "ABCG2",
+      "CCNA1S",
+      "CFTR",
+      "CYP2B6",
+      "CYP2C19",
+      "CYP2C9",
+      "CYP3A4",
+      "CYP3A5",
+      "DPYD",
+      "G6PD",
+      "HLA-A",
+      "HLA-B"
+    ],
+    "Genes_without_Data": [
+      {
+        "Gene": "IFNL3",
+        "Reason": "No clinical action for each genotype"
+      },
+      {
+        "Gene": "MT-RNR1",
+        "Reason": "No clinical action for each genotype"
+      }
+    ]
+  }
+}
